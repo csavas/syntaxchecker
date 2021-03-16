@@ -1,0 +1,2 @@
+# syntaxchecker
+Read in a group of symbols and check to see if the appropriate opening symbol correctly matches up with the appropriate closing symbol.   The opening symbols are “{(&lt;[“ and the appropriate closing symbols are “})>]“.  You must read in and analyze each group.    If you were to read in {[]}, you would have a correct balance of opening and closing symbols. If you were to read in {[}], you would not have a correct balance of opening and closing symbols.
